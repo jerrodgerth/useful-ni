@@ -50,4 +50,4 @@ An unofficial collection of links, resources and other goodies for Network Infra
 
 ## Videos
 
-- [Networking for AI](https://www.youtube.com/playlist?list=PLgKNvl454Bxd2szz9ZEyAvjGTdwF5_aW4) - YouTube playlist
+- [Networking for AI](https://www.youtube.com/playlist?list=PLgKNvl454Bxd2szz9ZEyAvjGTdwF5_aW4){:target="\_blank"} - YouTube playlist
