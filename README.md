@@ -1,6 +1,8 @@
 # useful-ni
 
-An unofficial collection of links, resources and other goodies for Network Infrastructure (NI) products from Nokia. This began as a note file on my laptop, but turns out there were many others interested in the same info. PRs welcome.
+An unofficial collection of links for data sheets, docs, data models, community resources and more. On their own, these resources are often hard to find unfortunately. This is a bit like sharing a bunch of bookmarks. Hopefully this proves _useful_ for others as well.
+
+PRs welcome.
 
 \*\* h/t to the many [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) pages for some inspiration.
 
