@@ -1,6 +1,6 @@
 # useful-ni
 
-An unofficial collection of links for data sheets, docs, data models, community resources and more. On their own, these resources are often hard to find unfortunately. This is a bit like sharing a bunch of bookmarks. Hopefully this proves _useful_ for others as well.
+An unofficial collection of links for data sheets, docs, data models, community resources and more. On their own, these resources are often hard to find unfortunately. So, this is really a curated list of bookmarks... Hopefully this proves _useful_ for others as well.
 
 PRs welcome.
 
@@ -19,7 +19,7 @@ PRs welcome.
 
 - [SR Linux documentation](https://documentation.nokia.com/srlinux/)
 - [SR OS documentation](https://documentation.nokia.com/sr/)
-- **BETA** [Release Notes Navigator](https://documentation.nokia.com/rn-navigator/products/) (_SR OS only / Support login required_)
+- **BETA** [Release Notes Navigator](https://documentation.nokia.com/rn-navigator/products/)
 
 ## Product pages
 
