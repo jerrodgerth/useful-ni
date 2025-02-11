@@ -13,6 +13,7 @@ PRs welcome.
 - [7215 IXS-A1](https://onestore.nokia.com/asset/i/214158)
 - [7220 IXR-D Series](https://onestore.nokia.com/asset/i/207599)
 - [7220 IXR-H Series](https://onestore.nokia.com/asset/i/210990)
+- [7250 IXR-X1b/X3b](https://onestore.nokia.com/asset/i/214173) \*New
 - [7250 IXR-6e/10e chassis](https://onestore.nokia.com/asset/i/212673)
 
 ## Docs
