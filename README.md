@@ -27,7 +27,13 @@ PRs welcome.
 - [Nokia Data Center](https://www.nokia.com/networks/data-center/)
 - [Nokia SR Linux](https://www.nokia.com/networks/ip-networks/service-router-linux-NOS/)
 - [Nokia EDA](https://www.nokia.com/data-center-networks/data-center-fabric/event-driven-automation/)
-- [Nokia community SONiC](https://www.nokia.com/data-center-networks/sonic/)
+
+## Nokia community SONiC
+
+- [Product Page](https://www.nokia.com/data-center-networks/sonic/)
+- [7215 IXS-A1 for SONiC](https://onestore.nokia.com/asset/i/214434)
+- [7220 IXR-H series for SONiC](https://onestore.nokia.com/asset/i/214442)
+- [7250 IXR-10e chassis for SONiC](https://onestore.nokia.com/asset/i/214433)
 
 ## Data models
 
